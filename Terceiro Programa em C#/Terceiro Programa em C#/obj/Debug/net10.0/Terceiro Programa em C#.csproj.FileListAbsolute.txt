@@ -1,0 +1,14 @@
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\bin\Debug\net10.0\Terceiro Programa em C#.exe
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\bin\Debug\net10.0\Terceiro Programa em C#.deps.json
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\bin\Debug\net10.0\Terceiro Programa em C#.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\bin\Debug\net10.0\Terceiro Programa em C#.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\bin\Debug\net10.0\Terceiro Programa em C#.pdb
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\refint\Terceiro Programa em C#.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.pdb
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\Terceiro Programa em C#.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\Terceiro Programa em C#\Terceiro Programa em C#\obj\Debug\net10.0\ref\Terceiro Programa em C#.dll
