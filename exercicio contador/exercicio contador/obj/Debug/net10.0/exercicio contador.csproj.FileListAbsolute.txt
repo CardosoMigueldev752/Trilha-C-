@@ -1,0 +1,14 @@
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\bin\Debug\net10.0\exercicio contador.exe
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\bin\Debug\net10.0\exercicio contador.deps.json
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\bin\Debug\net10.0\exercicio contador.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\bin\Debug\net10.0\exercicio contador.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\bin\Debug\net10.0\exercicio contador.pdb
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\refint\exercicio contador.dll
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.pdb
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\exercicio contador.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documentos\C SHARP\exercicio contador\exercicio contador\obj\Debug\net10.0\ref\exercicio contador.dll
